@@ -2,10 +2,6 @@
 # $2: SED flavor (e.g., spec, jpas)
 # $3: list name (e.g., danzon, chapi)
 
-setenv  DYNBAS     ./DynBaS
-setenv  DB_MODELS  ./models
-setenv  DB_FILTERS ./jpas-filters/JPAS_FILTERBIN.RES
-
 nohup ./$1 $2/$3_00 $2 > outs/$2/$3_output_00.log &
 nohup ./$1 $2/$3_01 $2 > outs/$2/$3_output_01.log &
 nohup ./$1 $2/$3_02 $2 > outs/$2/$3_output_02.log &

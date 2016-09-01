@@ -1,0 +1,9 @@
+*.pyc
+
+.ipynb_checkpoints
+
+DynBaS
+data
+
+*.tbz2
+*.tgz

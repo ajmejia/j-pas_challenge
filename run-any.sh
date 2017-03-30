@@ -1,6 +1,6 @@
 # $1: script
-# $2: SED flavor (e.g., spec, jpas)
-# $3: list name (e.g., danzon, chapi)
+# $2: path (e.g., obs-seds, jpas-z0p21)
+# $3: list name (e.g., jpas-list, jpas-z0p21)
 
 nohup ./$1 $2/$3_00 $2 > outs/$2/$3_output_00.log &
 nohup ./$1 $2/$3_01 $2 > outs/$2/$3_output_01.log &

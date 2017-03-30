@@ -20,5 +20,5 @@ ls jplus-z0p90_*.txt > jplus-z0p90 && split jplus-z0p90 -nl/50 -d jplus-z0p90_
 cd ..
 cd obs-seds
 ls jplus_*.txt > jplus-list && split jplus-list -nl/50 -d jplus-list_
-ls jplus_*.txt > jpas-list && split jpas-list -nl/50 -d jpas-list_
+ls jpas_*.txt > jpas-list && split jpas-list -nl/50 -d jpas-list_
 cd ..

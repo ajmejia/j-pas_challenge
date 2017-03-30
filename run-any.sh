@@ -34,3 +34,25 @@ nohup ./$1 $2/$3_26 $2 > outs/$2/$3_output_26.log &
 nohup ./$1 $2/$3_27 $2 > outs/$2/$3_output_27.log &
 nohup ./$1 $2/$3_28 $2 > outs/$2/$3_output_28.log &
 nohup ./$1 $2/$3_29 $2 > outs/$2/$3_output_29.log &
+
+nohup ./$1 $2/$3_20 $2 > outs/$2/$3_output_30.log &
+nohup ./$1 $2/$3_21 $2 > outs/$2/$3_output_31.log &
+nohup ./$1 $2/$3_22 $2 > outs/$2/$3_output_32.log &
+nohup ./$1 $2/$3_23 $2 > outs/$2/$3_output_33.log &
+nohup ./$1 $2/$3_24 $2 > outs/$2/$3_output_34.log &
+nohup ./$1 $2/$3_25 $2 > outs/$2/$3_output_35.log &
+nohup ./$1 $2/$3_26 $2 > outs/$2/$3_output_36.log &
+nohup ./$1 $2/$3_27 $2 > outs/$2/$3_output_37.log &
+nohup ./$1 $2/$3_28 $2 > outs/$2/$3_output_38.log &
+nohup ./$1 $2/$3_29 $2 > outs/$2/$3_output_39.log &
+
+nohup ./$1 $2/$3_20 $2 > outs/$2/$3_output_40.log &
+nohup ./$1 $2/$3_21 $2 > outs/$2/$3_output_41.log &
+nohup ./$1 $2/$3_22 $2 > outs/$2/$3_output_42.log &
+nohup ./$1 $2/$3_23 $2 > outs/$2/$3_output_43.log &
+nohup ./$1 $2/$3_24 $2 > outs/$2/$3_output_44.log &
+nohup ./$1 $2/$3_25 $2 > outs/$2/$3_output_45.log &
+nohup ./$1 $2/$3_26 $2 > outs/$2/$3_output_46.log &
+nohup ./$1 $2/$3_27 $2 > outs/$2/$3_output_47.log &
+nohup ./$1 $2/$3_28 $2 > outs/$2/$3_output_48.log &
+nohup ./$1 $2/$3_29 $2 > outs/$2/$3_output_49.log &

@@ -1,3 +1,3 @@
 #!/usr/bin/sh
 
-tar cjvf challenge.tbz2  DynBaS models obs-seds jp*-z* jp*filters *.sh
+tar cjvf challenge.tbz2 DynBaS models filters obs-seds jp*-z* *.sh

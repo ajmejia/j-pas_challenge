@@ -18,8 +18,3 @@ cd ..
 cd jplus-z0p90
 ls jplus-z0p90_*.txt > jplus-z0p90 && split jplus-z0p90 -nl/30 -d jplus-z0p90_
 cd ..
-
-mkdir outs
-mkdir outs/jpas-z0p21 outs/jpas-z0p50 outs/jpas-z0p90
-mkdir outs/jplus-z0p21 outs/jplus-z0p50 outs/jplus-z0p90
-mkdir outs/obs-jpas outs/obs-jplus

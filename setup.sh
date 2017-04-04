@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/bash
 
 cd jpas-z0p21
 ls jpas-z0p21_*.txt > jpas-z0p21 && split jpas-z0p21 -nl/50 -d jpas-z0p21_

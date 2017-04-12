@@ -2,9 +2,5 @@
 
 .ipynb_checkpoints
 
-DynBaS
-data
-outs
-
 *.tbz2
 *.tgz

@@ -1,0 +1,2 @@
+setenv DB_FILTERS  $DYNBAS/data/FILTERBIN.RES
+setenv DB_MODELS   $DYNBAS/data/models

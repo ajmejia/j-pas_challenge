@@ -239,7 +239,7 @@ PROGRAM DynBaS
   wlo   = sed(:, 1)
   fluxo = sed(:, 2)
   sigma = sed(:, 3)
-  where(fluxo<=0.0) sigma = huge(1.0)
+  where(fluxo<=0.0 .or. sigma<=0.0) sigma = huge(1.0)
 
   if(.not. FILTER_EXIST(passband)) then
     write(6, *) "STOP DynBaS: selected passband for luminosity-weighted age/metallicity is not defined in $DB_FILTERS."
